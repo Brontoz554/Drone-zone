@@ -5,7 +5,7 @@
 
 @font-face {
     font-family: ProximaNova;
-    src: url("/assets/fonts/Proxima.ttf") format('ttf');
+    src: url("/assets/fonts/Proxima.ttf") format("ttf");
 }
 
 body {
@@ -34,7 +34,7 @@ header .upper {
     width: 100%;
 }
 
-.collapse {
+.collapse { 
     justify-content: flex-end;
     padding-right: 10%;
 }
@@ -770,3 +770,4 @@ footer span {
         text-align: center;
     }
 }
+
