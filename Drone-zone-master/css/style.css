@@ -34,7 +34,7 @@ header .upper {
     width: 100%;
 }
 
-.collapse {
+.collapse { 
     justify-content: flex-end;
     padding-right: 10%;
 }
