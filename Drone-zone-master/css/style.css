@@ -441,6 +441,9 @@ ul .navbar {
 
     background: #ffffff;
     color: black;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -760,5 +763,10 @@ footer span {
         width: 70%;
         margin-right: auto;
         margin-left: auto;
+    }
+
+    .modal .message
+    {
+        text-align: center;
     }
 }
